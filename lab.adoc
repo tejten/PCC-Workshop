@@ -1,4 +1,4 @@
-= Lab 2 - Cloudfoundry Services with Pivotal Cloud Cache and MySQL
+= Cloudfoundry Services with Pivotal Cloud Cache and MySQL
 
 [abstract]
 --
